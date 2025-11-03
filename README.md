@@ -38,6 +38,7 @@
 
 - [Best practices Bioconductor](https://lmweber.org/OSTA/) - Principles for statistical analysis of spatial transcriptomics data
 - [squidpy](https://squidpy.readthedocs.io/en/stable/) - Spatial single cell analysis toolkit from scverse
+- [insitupy](https://insitupy.readthedocs.io/en/latest/) - InSituPy for In situ spatial data analysis
 - [Giotto](https://giottosuite.readthedocs.io/en/latest/) - Comprehensive spatial data analysis suite
 - [Vitessce](http://vitessce.io/) - Visual integration tool for exploration of spatial single cell experiments
 - [Voyager](https://github.com/pachterlab/voyager) - Spatial transcriptomics visualization from Pachter lab
@@ -46,6 +47,7 @@
 - [sopa](https://github.com/gustaveroussy/sopa) - Spatial omics processing and analysis
 - [SpatialAgent](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1.full.pdf) - An autonomous AI agent for spatial biology
 - [LazySlide](https://github.com/rendeirolab/LazySlide) - Framework for whole slide image (WSI) analysis
+- [Xenium-end-end-pipeline](https://github.com/Moldia/Xenium_benchmarking/tree/main) - paper (https://www.nature.com/articles/s41592-025-02617-2)
 
 
 ### Nextflow / Pipelines
@@ -67,6 +69,7 @@
 - [GrandQC](https://github.com/cpath-ukk/grandqc) - Comprehensive solution for quality control in digital pathology
 - [SpotSweeper](https://www.nature.com/articles/s41592-025-02713-3#Fig1) - Spatially aware quality control for spatial transcriptomics
 - [MerQuaCo](https://elifesciences.org/reviewed-preprints/105149) - A computational tool for quality control in image-based spatial transcriptomics
+- [overl](https://github.com/HiDiHlabs/ovrl.py/tree/main) - Spatial Data QC 
 
 ### Normalization
 
@@ -145,6 +148,7 @@
 - [Cell2location](https://github.com/BayraktarLab/cell2location) - Mapping scRNA-seq to spatial data
 - [SPOTlight](https://github.com/MarcElosua/SPOTlight) - Seeded NMF regression to deconvolute spatial spots
 - [CARD](https://github.com/YingMa0107/CARD) - Spatially informed cell-type deconvolution
+- [SONAR](https://github.com/lzygenomics/SONAR) - cell-type deconvolution in spatial transcriptomics
 
 ### Differential Expression
 
@@ -175,6 +179,7 @@
 - [CellCharter](https://www.nature.com/articles/s41588-023-01588-4) - Hierarchical niche detection
 - [SpatialGLUE](https://www.nature.com/articles/s41592-024-02316-4) - Multi-omics cell niche identification
 - [smoothclust](https://github.com/lmweber/smoothclust) - Spatial clustering
+- [SpatialLeiden]([spatialleiden](https://spatialleiden.readthedocs.io/stable/index.html)) - Spatial Leiden
 - [SpaTopic](https://www.science.org/doi/10.1126/sciadv.adp4942) - Spatial topic modeling
 - [hdWGCNA](https://smorabit.github.io/hdWGCNA/articles/ST_basics.html) - Weighted gene correlation network analysis
 - [GASTON](https://github.com/raphael-group/GASTON) - Graph-based spatial domain detection
@@ -211,6 +216,7 @@
 - [DeepTalk](https://github.com/JiangBioLab/DeepTalk) - Single-cell resolution cell-cell communication using deep learning
 - [CellNEST](https://github.com/schwartzlab-methods/CellNEST) - Cell–cell relay networks using attention mechanisms on spatial transcriptomics
 - [FlowSig](https://www.nature.com/articles/s41592-024-02380-w) - Inferring pattern-driving intercellular flows from single-cell and spatial transcriptomics
+- [SpatialDM](https://spatialdm.readthedocs.io/en/latest/differential_test_intestine.html) - For visium spot data
 
 ### Metacells & Scalability
 
