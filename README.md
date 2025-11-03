@@ -48,6 +48,8 @@
 - [SpatialAgent](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1.full.pdf) - An autonomous AI agent for spatial biology
 - [LazySlide](https://github.com/rendeirolab/LazySlide) - Framework for whole slide image (WSI) analysis
 - [Xenium-end-end-pipeline](https://github.com/Moldia/Xenium_benchmarking/tree/main) - paper (https://www.nature.com/articles/s41592-025-02617-2)
+- [10X Xenium Py Tutorial](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Xenium_5k_data_analysis_journey_python.ipynb#scrollTo=hXOsa6XSajeH)
+- [10X Xenium R Tutorail](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Xenium_5k_data_analysis_journey.ipynb#scrollTo=gi40UH79BHfb)
 
 
 ### Nextflow / Pipelines
