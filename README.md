@@ -176,7 +176,7 @@
 
 > (**Smaller**) Cell types → Cell modules/neighborhoods → Niches/tissue domains (**Larger**)
 
-- [BANKSY](https://www.nature.com/articles/s41588-024-01664-3) - Unified cell typing and tissue domain segmentation
+- [BANKSY](https://www.nature.com/articles/s41588-024-01664-3) - Unified cell typing and tissue domain segmentation -> [banksyPy version](https://github.com/prabhakarlab/Banksy_py)
 - [TISSUE](https://github.com/sunericd/TISSUE) - Transcript imputation with spatial single-cell uncertainty estimation
 - [CellCharter](https://www.nature.com/articles/s41588-023-01588-4) - Hierarchical niche detection
 - [SpatialGLUE](https://www.nature.com/articles/s41592-024-02316-4) - Multi-omics cell niche identification
